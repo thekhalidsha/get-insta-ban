@@ -23,9 +23,9 @@ Use this Tool!!
 
 Sometimes its a good tool to BREAK YOUR FRIENDSHIP!!
 
-**** WORKS ON TERMUX ANDROID
+*****WORKS ON TERMUX ANDROID****
 
-*****pkg install php
+****pkg install php****
 
 ## Usage:
 
